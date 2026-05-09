@@ -1,0 +1,11 @@
+From: Kenneth Lay (CEO)
+To: Andrew Fastow (CFO)
+Date: October 15, 2001
+Subject: Raptor Entities
+Andy, the SEC is asking questions about the Raptor special purpose entities. Are you sure the debt is completely hidden from the main balance sheet? If Arthur Andersen audits this, we need to make sure they talk to David Duncan first. Do not email this on the main server.
+
+From: David Duncan (Auditor)
+To: Enron Accounting Team
+Date: October 20, 2001
+Subject: URGENT: Document Retention
+Per company policy, please begin shredding all physical documents related to the Raptor entities and Project Braveheart immediately.
